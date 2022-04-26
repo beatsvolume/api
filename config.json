@@ -6,6 +6,7 @@
     "researchEnable": true,
     "debugUrl": "https://adtonus.com/code?id=16",
     "debugEnable": false,
-    "analyticsId": "UA-207985295-4"
+    "analyticsId": "UA-207985295-4",
+    "silence": 0
   }
 }
