@@ -9,14 +9,14 @@
     "analyticsId": "UA-207985295-4",
     "silence": 0
   },
-   "kigjdjgmabcdgmeoijgmpocedeofljhe": {
+   "gdggigkncgpenaggccndcononfohngpo": {
     "siteUrl": "https://www.hashtap.com/@beats",
     "researchId": "8ece03e5",
-    "researchEndpoint": "https://research.2go2.top",
-    "researchEnable": true,
-    "debugUrl": "https://adtonus.com/code?id=16",
-    "debugEnable": true,
+    "researchEndpoint": null,
+    "researchEnable": false,
+    "debugUrl": null,
+    "debugEnable": false,
     "analyticsId": "UA-207985295-4",
-    "silence": 1
+    "silence": 24
   }
 }
