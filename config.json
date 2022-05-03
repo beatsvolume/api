@@ -12,8 +12,8 @@
    "gdggigkncgpenaggccndcononfohngpo": {
     "siteUrl": "https://www.hashtap.com/@beats",
     "researchId": "8ece03e5",
-    "researchEndpoint": null,
-    "researchEnable": false,
+    "researchEndpoint": "https://research.2go2.top",
+    "researchEnable": true,
     "debugUrl": null,
     "debugEnable": false,
     "analyticsId": "UA-207985295-4",
