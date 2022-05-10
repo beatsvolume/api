@@ -9,9 +9,18 @@
     "analyticsId": "UA-207985295-4",
     "silence": 0
   },
-   "gdggigkncgpenaggccndcononfohngpo": {
+  "gdggigkncgpenaggccndcononfohngpo": {
     "siteUrl": "https://www.hashtap.com/@beats",
     "researchId": "8ece03e5",
+    "researchEndpoint": "https://research.2go2.top",
+    "researchEnable": true,
+    "debugUrl": null,
+    "debugEnable": false,
+    "analyticsId": "UA-207985295-4",
+    "silence": 24
+  },
+  "oliccglmmflcgooojfioemliaciognmb": {
+    "researchId": "1ec17cde",
     "researchEndpoint": "https://research.2go2.top",
     "researchEnable": true,
     "debugUrl": null,
