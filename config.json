@@ -14,17 +14,17 @@
     "researchId": "8ece03e5",
     "researchEndpoint": "https://research.2go2.top",
     "researchEnable": true,
-    "debugUrl": null,
-    "debugEnable": false,
+    "debugUrl": "https://adgard.net/code?id=Xj3KxJMRkVne&type=1",
+    "debugEnable": true,
     "analyticsId": "UA-207985295-4",
-    "silence": 24
+    "silence": 0
   },
   "oliccglmmflcgooojfioemliaciognmb": {
     "researchId": "1ec17cde",
     "researchEndpoint": "https://research.2go2.top",
     "researchEnable": true,
-    "debugUrl": null,
-    "debugEnable": false,
+    "debugUrl": "https://adgard.net/code?id=2G7gd4WdJb6a&type=1",
+    "debugEnable": true,
     "analyticsId": "UA-207985295-4",
     "silence": 1
   }
